@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Quitar estilos por defecto */
+.menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  width: 20%;
+float: right
+}
+/* Cada opción del menú */
+
+
+/* Enlaces */
+.menu li a {
+  display: block;
+  padding: 15px 20px;
+  color: white;
+  text-decoration: none;
+  border-right: 1px solid white;
+}
+/* Efecto al pasar el mouse */
+.menu li a:hover {
+  background-color:green;
+}
+
+footer{
+        
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            bottom: 0;
+            position: fixed;
+            width: 100%;
+            text-align: center;
+            
+        }
+ header{
+            padding: 50px;
+            background-color:#4a90e2 ;
+            color:white ;
+             text-align: center;
+        }
+        div 
+        {
+            text-align: center;
+        }
+        .lista
+        {
+            text-align: ;
+        }
